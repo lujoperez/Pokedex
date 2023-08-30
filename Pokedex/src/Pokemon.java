@@ -1,3 +1,5 @@
+package Pokedex.src;
+
 import java.util.ArrayList;
 
 public class Pokemon {
