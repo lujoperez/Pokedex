@@ -16,9 +16,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2UiRnV2IcM05olP8UKWIQrwCf1w" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +31,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "C:/Users/gcesp/OneDrive/Escritorio/Pokedex",
+    "last_opened_file_path": "/Users/ignacialeongraf/Desktop/JAVA/Pokedex",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693420583017</updated>
       <workItem from="1693420583953" duration="799000" />
+      <workItem from="1693422162135" duration="122000" />
     </task>
     <servers />
   </component>
